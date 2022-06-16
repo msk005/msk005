@@ -20,7 +20,7 @@
 
 
 
-- :telescope: <B>I'm Final Year Student in CSE at Kamla Nehru Institute of Technology, Sultanpur
+- :telescope: <B>I'm Final Year CSE Student at Kamla Nehru Institute of Technology, Sultanpur
  
 - 💬 Feel Free To Connect with me! :) 
  
