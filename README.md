@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [MANISH SINGH KUSHWAHA!](https://github.com/msk005) 
+## Hi! I'm [MANISH SINGH KUSHWAHA](https://github.com/msk005) 
  
  
 
@@ -44,7 +44,7 @@
 
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Rajdeep-nagar08&theme=react-dark" align="center" width=100% />
+   <img src="https://activity-graph.herokuapp.com/graph?username=msk005&theme=react-dark" align="center" width=100% />
 
 ---
 
