@@ -20,14 +20,16 @@
 
 
 
-- :telescope: <B>I'm Final Year Student in CSE at Kamla Nehru Institute of Technology, Sultanpur;
+- :telescope: <B>I'm Final Year Student in CSE at Kamla Nehru Institute of Technology, Sultanpur
  
-- 💬 Feel Free To Connect with me! :) ;
+- 💬 Feel Free To Connect with me! :) 
  
-- 📫 Reach out to me at: msk318809@gmail.com; </B>
+- 📫 Reach out to me at: msk318809@gmail.com </B>
 <br><br><br><br>
-
-![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Blockchain%20Developer-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Solidity-%7C-orange) ![](https://img.shields.io/badge/Truffle-%7C-blue) ![](https://img.shields.io/badge/Minting%20NFT's-%7C-green) ![](https://img.shields.io/badge/Web3JS-%7C-blue) ![](https://img.shields.io/badge/JavaScript-%7C-pink)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br>
+![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </a>
 
 ---
